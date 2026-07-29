@@ -1,0 +1,3 @@
+t=int(input("Enter the temp in fahrenheit:"))
+c=(t-32)/1.8
+print("The temp in celsius",c)
