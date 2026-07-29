@@ -1,0 +1,8 @@
+a=int(input("What do you have left in pesos?"))
+a=a*0.000313
+b=int(input("What do you have left in soles?"))
+b=b*0.282
+c=int(input("What do you have left in reais?"))
+c=c*0.180
+d=a+b+c
+print("Total currency is USD is",d)
