@@ -1,4 +1,5 @@
-#Python Playground
+#🐍 Python Playground
+
 
 A collection of Python scripts I'm writing while learning — mixing my own practice code with exercises from the Codedex Python course.
 
