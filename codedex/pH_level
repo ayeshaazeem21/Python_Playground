@@ -1,0 +1,7 @@
+pH=int(input("Enter the pH level:"))
+if(pH>7):
+  print("BASIC")
+elif(pH<7):
+  print("ACIDIC")
+else:
+  print("NEUTRAL")
