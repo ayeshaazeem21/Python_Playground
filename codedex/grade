@@ -1,0 +1,5 @@
+grade=int(input("Enter your mark:"))
+if(grade>55):
+  print("You passed")
+else:
+  print("You failed")
