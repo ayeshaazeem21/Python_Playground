@@ -18,16 +18,6 @@ I'm using this to track progress, revisit old concepts, and have a public record
 
 > Structure is a work in progress and will get reorganized as the repo grows.
 
-## 🛠️ What I've Covered So Far
-
-- [x] Variables & data types
-- [x] Conditionals
-- [x] Loops
-- [ ] Functions
-- [ ] Lists & dictionaries
-- [ ] File handling
-- [ ] OOP basics
-
 ## ▶️ Running the Scripts
 
 Each script is standalone. Clone the repo and run any file with:
