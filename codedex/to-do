@@ -1,0 +1,12 @@
+todolist=['🏦 Get quarters.',
+'🧺 Do laundry.',
+'🌳 Take a walk.',
+'💈 Get a haircut.',
+'🍵 Make some tea.',
+'💻 Complete Lists chapter.',
+'💖 Call mom.',
+'📺 Watch My Hero Academia.']
+print(todolist[0])
+print(todolist[1])
+print(todolist[2:5])
+#print(todolist[9])
